@@ -29,6 +29,7 @@
     * 모델의 정확도(Accuracy)
     * 데이터셋에 대한 재현성
     * 모델의 효율성 및 성능
+<img width="1012" height="325" alt="image" src="https://github.com/user-attachments/assets/3c65e3ed-2eed-454b-b824-3aaf947abc71" />
 
 -----
 

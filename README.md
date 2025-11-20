@@ -10,6 +10,10 @@
 ## 🏆 1. 성과
 
 총 245개 팀 중 **score 0.96809**로 **7등**을 달성했습니다.
+<img width="1440" height="775" alt="스크린샷 2025-11-21 오전 12 05 50" src="https://github.com/user-attachments/assets/07424d74-04b6-49ce-b3e4-2e163a2f1a55" />
+
+<img width="1440" height="774" alt="스크린샷 2025-11-21 오전 12 12 47" src="https://github.com/user-attachments/assets/9a6f69fe-e95e-4c25-9636-ca5b412e7c05" />
+
 
 -----
 
